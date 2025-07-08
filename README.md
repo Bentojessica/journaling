@@ -16,7 +16,7 @@
 
 O link do site esta disponível aqui: 👇
 
-[UAI, MEU DIA!](long-pleasure.surge.sh)
+[UAI, MEU DIA!](https://long-pleasure.surge.sh)
 
 Tem estilização simples usando css integrado com html!
 ![image](https://github.com/user-attachments/assets/13c5fb82-60f9-4f20-8379-1bf947bdd98e)
